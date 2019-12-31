@@ -1,3 +1,5 @@
 # SakuraFrp Cli
 
-对于 SakuraFrp 的简单封装，自动识别不同的操作系统并执行，目前暂时支持 MacOS，其他系统按照
+对于 SakuraFrp 的简单封装，具体使用方法可见：https://www.natfrp.com/
+
+自动识别不同的操作系统并执行，目前暂时只支持 MacOS

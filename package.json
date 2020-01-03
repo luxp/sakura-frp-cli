@@ -1,7 +1,7 @@
 {
-  "name": "@luxp/sakura-frq-cli",
-  "version": "0.0.3",
+  "name": "@luxp/sakura-frp-cli",
+  "version": "1.0.0",
   "bin": {
-    "sakura-frq": "cli.js"
+    "sakura-frp": "cli.js"
   }
 }

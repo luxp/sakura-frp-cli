@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "bin": {
     "sakura-frp": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxp/sakura-frp-cli.git"
   }
 }
